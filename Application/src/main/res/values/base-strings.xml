@@ -15,13 +15,14 @@
  limitations under the License.
 -->
 <resources>
-    <string name="app_name">BasicMultitouch</string>
+    <string name="app_name">Sample APK</string>
     <string name="intro_message">
         <![CDATA[
         
             
-This sample demonstrates the use of MotionEvent properties to keep track of individual touches
-across multiple touch events.
+This is a sample application which can be used for testing FGL services.
+\n\nBefore processing, this APK will contain no SDKs - you can find the source code of this example application at
+\nhttps://github.com/fglmobile/sample-apk/
 \n\nTouch the screen with multiple fingers to show that the pointer id
 (also represented by a color) does not change as new touch events are received.
             
